@@ -36,3 +36,5 @@ while game_is_on:
 
 
 screen.exitonclick()
+
+# TODO: add a timer to constraint a player to cross the road within a timeframe
